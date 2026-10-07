@@ -1,0 +1,18 @@
+# Rust build output
+/target/
+
+# Local IDE and editor settings
+/.vscode/
+/.idea/
+
+# Local environment and OS metadata
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Generated binaries and crash dumps
+*.exe
+*.pdb
+*.dmp
