@@ -3,7 +3,7 @@
 > A modern Windows desktop utility for organizing downloads, finding large and
 > stale files, detecting exact duplicates, cleaning developer/application
 > caches, and running selected disk and Windows maintenance operations.
-
+> Note: This is an AI-generated product, so there will be errors; naturally, the creator is too dim-witted to understand it, meaning there is no possibility of upgrades—at least not until they get into university :))
 [![Rust](https://img.shields.io/badge/Rust-2021-orange?logo=rust)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows)](https://www.microsoft.com/windows)
 [![GUI](https://img.shields.io/badge/GUI-egui%20%2F%20eframe-7B61FF)](https://github.com/emilk/egui)
